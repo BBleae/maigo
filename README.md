@@ -1,0 +1,2 @@
+# maigo
+MaiBot in go
