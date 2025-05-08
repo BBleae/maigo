@@ -3,8 +3,9 @@ module github.com/BBleae/maigo
 go 1.24.2
 
 require (
+	github.com/BurntSushi/toml v1.5.0
+	github.com/Masterminds/semver/v3 v3.3.1
 	github.com/gin-gonic/gin v1.10.0
-	github.com/joho/godotenv v1.5.1
 	github.com/upper/db/v4 v4.10.0
 )
 
